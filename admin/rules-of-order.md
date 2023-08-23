@@ -4,6 +4,10 @@
 
 The Role of the Admins is to ensure Order and Good Governance of Lightning Creations in the trust and good reasoning of the Project Members and Community Members.
 
+## Declaration of Role of Governance
+
+This document was created in response to a multitude of disagreements over precedential rules. It, however, shall not be considered as a substitute for precedent. Very specifically, these rules and procedures shall be understood as the written source of truth and the fallback guidance. If a precedent exists for an action being taken, that precedent takes priority over this document.
+
 ## Public Decision Making Preferred
 
 The Admins of Lightning Creations shall, in the furthurance of the stated goal, prefer to make all decisions publiclly, in a manner that is available for the review and comment of all project members and project leads of Lightning Creations, and it shall be presumed that the whole of Lightning Creations benefits from a decision being made publically.
