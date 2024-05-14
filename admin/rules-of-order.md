@@ -12,9 +12,11 @@ This document was created in response to a multitude of disagreements over prece
 
 The Admins of Lightning Creations shall, in the furthurance of the stated goal, prefer to make all decisions publiclly, in a manner that is available for the review and comment of all project members and project leads of Lightning Creations, and it shall be presumed that the whole of Lightning Creations benefits from a decision being made publically.
 
-The above presumption may be defeated only on clear and convincing evidence that a private decision is either necessary, or the interests of the whole of Lightning Creations demand a private decision.
+The above presumption may be defeated only on clear and convincing evidence that a privately visible decision is either necessary, or the interests of the whole of Lightning Creations demand a privately visible decision.
 
 With the exception of a Referendum Vote, which necessarily must be held in public, the method of voting used does not affect whether a decision may be made privately.
+
+A publically visible vote shall be any vote conducted in a manner which any Member may access to view the vote and status thereof, and may comment on the decision, and a privately visible vote is any other vote.
 
 ## Voting Methods
 
@@ -23,7 +25,7 @@ There are multiple methods to conduct certain votes. Unless otherwise specified,
 ### Majority Vote
 
 A Majority Admin Vote may be taken for most changes to Lightning Creations. All admins must acknowledge and respond to the vote, or a sufficient number must respond to guarantee a majority. After both the required number of admins have responded and a majority vote is obtained, a 24-hour comment period occurs, after which a majority of the voting admins must have voted in favour, where any admin who did not vote is considered to have abstained.
-In the case of a private decision, the comment period may be waived once a majority has been achieved provided no admin objects to the waiver.
+In the case of a privately visible decision, the comment period may be waived once a majority has been achieved provided no admin objects to the waiver.
 
 
 ### Unanimous Votes
@@ -31,7 +33,7 @@ In the case of a private decision, the comment period may be waived once a major
 A Unanimous Admin Vote may be taken for especially dangerous, irreversible, or sensitive decisions that cannot be taken lightly. 
 
 All admins must acknowledge and have responded in favour or abstained. After all admins hvae acknowledged and all voting admins are in favour, a 24-hour comment period occurs, after which all voting admins must remain in favour. 
-In the case of a private decision, the comment period may be waived once a majority has been achieved provided no admin objects to the waiver.
+In the case of a privately visible decision, the comment period may be waived once a majority has been achieved provided no admin objects to the waiver.
 If any admin objects to the action, the vote fails. 
 
 ### Referendum Votes
@@ -77,7 +79,7 @@ The following actions may be taken only from a Unanimous Admin Vote:
 * Removal of any admin from LC for serious breach of rules or ethics, except that the Admin who is the subject of the action is considered to have abstained in all circumstances.
 * Amendments to these governance rules
 
-With the exception of Termination of a project, or Alteration of the Project Structure, the admins may presume that a private vote is in the interests of Lightning Creations.
+With the exception of Termination of a project, or Alteration of the Project Structure, the admins may presume that a privately visible vote is in the interests of Lightning Creations.
 
 ### Actions Requiring Referendum Votes
 

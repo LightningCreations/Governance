@@ -28,7 +28,7 @@ Notwithstanding any rule or precedent requiring an FCP, if an action is taken on
 This rule shall not apply if:
 
 1. Any Admin has Abstained or Conditionally approved and, as part of that action, filed a conditional dissent, unless the admin explicitly consents to the waiver,
-2. The Motion for which this rule is applied was taken in public, and the motion by the team was not a public motion.
+2. The Motion for which this rule is applied was taken in public, and the motion by the team was not a publicly visible motion.
 
 Nothing in this section shall be taken to preclude the Admins from waiving an FCP in any manner already permitted by any rule or precedent.
 
