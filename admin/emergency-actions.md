@@ -1,5 +1,5 @@
 # Emergency Actions
-In the case of an emergency, any action that needs to be taken should be taken. Any such action may be reviewed by the administration for whether or not it was a good decision to make in the first place.
+In the case of an emergency, any action that needs to be taken should be taken. Any such action shall be subject to prompt review in respect to the LC Admins and the Admin taking the action.
 
 Such a review may have any outcome the Admins deem fit, including:
 
