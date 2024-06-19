@@ -1,0 +1,16 @@
+# Summary
+
+- [LC Admins](admin/README.md)
+    - [Rules of Order](admin/rules-of-order.md)
+    - [Admin Quorum](admin/admin-quorum.md)
+    - [Emergency Actions](admin/emergency-actions.md)
+    - [Separation of Admin Powers](admin/separation-of-admin-powers.md)
+    - [Team Management Rules](admin/team-management-rules.md)
+- [ILM Projects](ilm-projects/README.md)
+    - [Independent Leadership Model](ilm-projects/independent-leadership-model.md)
+    - [LCCC Project Charter](ilm-projects/lccc.md)
+    - [LCS Project Charter](il-projects/lcs.md)
+- [LC Management](lc-management/README.md)
+    - [LCMT Quorum](lc-management/lcmt-quorum.md)
+- [Administrative Conduct](administrative-conduct/README.md)
+    - [Admin Action Review Process](administrative-conduct/review.md)
