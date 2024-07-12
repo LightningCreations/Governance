@@ -12,5 +12,6 @@
     - [LCS Project Charter](il-projects/lcs.md)
 - [LC Management](lc-management/README.md)
     - [LCMT Quorum](lc-management/lcmt-quorum.md)
+    - [Standing Agenda Items](lc-mangement/standing-agenda-items.md)
 - [Administrative Conduct](administrative-conduct/README.md)
     - [Admin Action Review Process](administrative-conduct/review.md)
