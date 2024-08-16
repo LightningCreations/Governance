@@ -13,5 +13,7 @@
 - [LC Management](lc-management/README.md)
     - [LCMT Quorum](lc-management/lcmt-quorum.md)
     - [Standing Agenda Items](lc-mangement/standing-agenda-items.md)
+- [Community Management](community-management/README.md)
+    - [Community Management Team Charter - LC Community](community-management/lc-community.md)
 - [Administrative Conduct](administrative-conduct/README.md)
     - [Admin Action Review Process](administrative-conduct/review.md)
