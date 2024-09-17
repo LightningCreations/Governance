@@ -10,6 +10,7 @@
     - [Independent Leadership Model](ilm-projects/independent-leadership-model.md)
     - [LCCC Project Charter](ilm-projects/lccc.md)
     - [LCS Project Charter](ilm-projects/lcs.md)
+    - [Fabtastic Project Charter](ilm-projects/fabtastic.md)
 - [LC Management](lc-management/README.md)
     - [LCMT Quorum](lc-management/lcmt-quorum.md)
     - [Standing Agenda Items](lc-mangement/standing-agenda-items.md)
