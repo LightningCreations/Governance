@@ -21,6 +21,7 @@ The Fabtastic Leads are so authorized to:
 9.  Request, as necessary, the intervention of the LC Admins in matters which exceed their capacity or authority to handle, or that are of significant impact to LC as a whole, and
 10. Manage the GitHub organization assigned to the project.
 11. Protect the proprietary interests of the Fabtastic Project and LC as it relates to the Fabtastic Project by entering into agreements related to confidentiality of relevant design details of the Fabtastic Project, it's constituent projects, and its related and associated projects, and to enforce such agreements.
+12. File applications for intellectual property protections, including Patent and Copyright Registrations, related to the Fabtastic Project, it's constituent projects, and its related and associated projects, both on behalf of themselves and on behalf of LC.
 
 ## Responsibilities of the Fantastic Leads
 
