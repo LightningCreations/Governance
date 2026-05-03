@@ -16,45 +16,74 @@ The standard applied to Members for the above is relatively low. Breaches in the
 
 The LC Admins may admit Members who apply to be a Member through an appropriate process. Determinations to Admit a Member shall not be based on membership in a protected class. 
 
-## Revocation of Membership
+## Discipline of Membership
 
-The LC Admins may revoke the Membership of any Member for the following Reasons:
+The LC Admins may discipline any Member for the following Reasons:
+
 * Violation of the documented Community Rules at the time of the Violation,
 * Violation of the documented Rules applicable to Members at the time of the Violation,
 * (After Incorporation) Violation of the Membership Agreement or any other Agreement with Lightning Creations, or
-* Breach of the duties owed by the Member as a fiduciary of Lightning Creations, or policies established for protecting those duties.
+* Breach of the duties owed by the Member as a fiduciary of Lightning Creations, as set forth herein, or policies established for protecting those duties.
 
-The Server Staff/Community Management Team may also revoke Membership for a violation of the Community or Member Rules.
+The Server Staff/Community Management Team may also discipline a Member for a violation of the Community or Member Rules.
 
-Where reasonable in the circumstances, an Admin may reach out to a Member privately, giving them notice of the issue and opportunity to respond in advance of revocation. This is not required in all cases, however, provided the Admins act in good faith in making revocation decisions. 
+In exigent circumstances that cannot afford delay, a single Admin may also Suspend a Member, without approval of the full team, for not more than 14 days. In such circumstances, the Member shall be entitled to automatic reconsideration by the entire Admins.
+
+The following forms of Discipline are permitted:
+
+* Formal Admonishment, which records the offense formally but otherwise does not impact the Member's Membership,
+* Censure, which records the offense formally and places the Member's Membership in bad standing for a specified, limited period of time,
+* Suspension, which abrogates all rights and privileges of memberships for a specified, limited period of time, and
+* Revocation, which terminates the membership unless reinstated.
+
+No Censure, nor Suspension, shall exceed a period of 3 months.
+
+Where reasonable in the circumstances, an Admin may reach out to a Member privately, giving them notice of the issue and opportunity to respond in advance of any discipline. This is not required in all cases, however, provided the Admins act in good faith in making discipline decisions.  
 The Admins should prefer proactively communicating concerns with Members where the circumstances permit reasonable delay.
 
-When the Admins or the Server Staff makes the decision to revoke Membership, they shall give notice of the decision and the reasons therefore to the Member, as well as a list of their rights in the scenario. Those rights include requesting any of the following (within a reasonable span of time):
+When the Admins or the Server Staff makes the decision to discipline a Member, they shall give notice of the decision and the reasons therefore to the Member, as well as a list of their rights in the scenario. Those rights include requesting any of the following (within a reasonable span of time):
 * Informal Reconsideration, offering any relevant information for that purpose, or
-* A Hearing on revocation. 
+* A Hearing on the Disciplinary Measure, except that the right to a Hearing is not granted for an Admonishment.
 
 The Admins may set a maximum time for requesting either, which shall not be less than 3 days for reconsideration, or 14 days for a hearing. In the case of a request for a hearing, the deadline for the request counts from the time the Member is notified of the decision or, if reconsideration is requested first, the time the reconsideration decision is made and the Member is notified. Leave for proceedings that are no longer timely maybe granted at the discretion of the Admins.
 
 A Member is not entitled to more than one request for reconsideration and/or one request for a hearing, and is not entitled to reconsideration after a final determination in a hearing. Leave for further proceedings may be granted at the discretion of the Admins.
 
+Any disciplinary decision made shall comply with the Vision of LC.
+
 ### Request for Reconsideration
 
-When a revoked Member requests Reconsideration, the Admins or the Server Staff, as the case may be, shall review all information used in making the decision and any information presented to the Member. The revoked Member is not entitled to be reinstated in the interim until the Reconsidered Decision is given. 
+When a disciplined Member requests Reconsideration, the Admins or the Server Staff, as the case may be, shall review all information used in making the decision and any information presented to the Member. The disciplined Member is not entitled to be reinstated in the interim until the Reconsidered Decision is given.  
+The Server Staff may reconsider discipline issued by the Server Staff. The Admins may reconsider any discipline.
 
-A revoked Member is entitled to a Reconsidered Decision in reasonable time. If the Member believes the Decision is being unduly delayed, they may request a Hearing before the Reconsidered Decision is given, however a Decision of Reinstatement is dispositive of that hearing (IE. a Hearing will not go forward if the Admins decide to Reinstate the Member).
+A disciplined Member is entitled to a Reconsidered Decision in reasonable time. If the Member believes the Decision is being unduly delayed, they may request a Hearing before the Reconsidered Decision is given, however a Decision of Reversal is dispositive of that hearing (IE. a Hearing will not go forward if the Admins decide to Reverse the decision).
 
-### Revocation Hearing
+### Hearing
 
-When a revoked Member requests a revocation hearing, the revoked Member is reinstated as a Member until such time as the Hearing may make a final determination of revocation. However, the Member is not entitled to be restored to Official Communication platforms by a request for a Hearing.
+When a revoked Member requests a hear, the disciplinary measure until such time as the Hearing may make a final determination of revocation. However, the Member is not entitled to be restored to Official Communication platforms, if such access was revoked, by a request for a Hearing, except as necessary to permit the member to attend the hearing and prepare for it.
 
-When a Hearing Occurs, the Admins sit in Council to rereview all evidence inculpatory to the revoked Member in the Presence of the revoked Member. The revoked Member shall have the opportunity to present exculpatory evidence, and to present arguments as to both fact and policy.
+When a Hearing Occurs, the Admins sit in Council to rereview all evidence inculpatory to the revoked Member in the Presence of the Member. The Member shall have the opportunity to present exculpatory evidence, and to present arguments as to both fact and policy.
 
-The Admins shall begin the Hearing Process within a reasonable time and the revoked Member shall not be subject to undue delays. 
-Proceedings may be disposed of for reason that they have been unduly delayed to such an extent that is prejudicial to the Member, and such a disposition shall reinstate the Member fully. Such a disposition shall prejudice further proceedings.
+The Admins shall begin the Hearing Process within a reasonable time and the Member shall not be subject to undue delays.  
+Proceedings may be disposed of for reason that they have been unduly delayed to such an extent that is prejudicial to the Member, and such a disposition shall stay the disciplinary decision. Such a disposition shall prejudice further proceedings.
 
-The revoked Member shall be presumed innocent of the violation that forms the basis for Membership, and only upon complete review of the evidence may the Admins make a Final Determination to revoke the Membership, having found that the violation occurred and was not justified. At any point during the proceedings, the Admins may make a Final Determination to reinstate the Member fully and must do so if, at the conclusion of the Hearing, they cannot find the violation to have occured or to be unjustified. A Final Determination in either case is dispositive: the entire process is complete (In particular, neither party is entitled to an appeal).
+The Member shall be presumed innocent of the violation that forms the basis for discipline, and only upon complete review of the evidence may the Admins make a Final Determination to revoke the Membership, having found that the violation occurred and was not justified. At any point during the proceedings, the Admins may make a Final Determination to reinstate the Member fully and must do so if, at the conclusion of the Hearing, they cannot find the violation to have occured or to be unjustified. A Final Determination in either case is dispositive: the entire process is complete (In particular, neither party is entitled to an appeal).
 
-If a Member is reinstated by final determnation, the Member cannot have the Membership revoked for the same alleged violation, even with additional inculaptory evidence presented after the fact. If a Member has their Membership revoked by a final decision, the member has no entitlement to further process to be reinstated.
+If discipline is reserved by final determnation, the Member cannot be disciplined again for the same violation, even with additional inculaptory evidence presented after the fact. If the Member has the discipline confirmed by final decision, the Member is entitled to no further process to reverse the discipline.
+
+Members subject to a Formal Admonishment only have no right to a hearing, but a hearing may nonetheless be granted at the discretion of the Admins.
+
+### Documentation of Reasons of Revocation
+
+Where the Server Staff, a single Admin, or the Admins may discipline a member, they shall write a report on the full reasons therefore, and provide it, without undue delay, to:
+* The Member, and
+* The Admins, unless the decision was made by the whole Admin team.
+
+The Report shall include:
+
+* The specific Rule or duty breached,
+* An explanation of the facts underlying the breach, and
+* The manner in which those facts did, in fact, breach that Rule or duty.
 
 ## Resignation of Membership
 
