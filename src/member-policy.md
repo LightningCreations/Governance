@@ -60,7 +60,7 @@ A disciplined Member is entitled to a Reconsidered Decision in reasonable time. 
 
 ### Hearing
 
-When a revoked Member requests a hear, the disciplinary measure until such time as the Hearing may make a final determination of revocation. However, the Member is not entitled to be restored to Official Communication platforms, if such access was revoked, by a request for a Hearing, except as necessary to permit the member to attend the hearing and prepare for it.
+When a revoked Member requests a hearing, the disciplinary measure is suspended until such time as the Hearing may make a final determination of revocation. However, the Member is not entitled to be restored to Official Communication platforms, if such access was revoked, by a request for a Hearing, except as necessary to permit the member to attend the hearing and prepare for it.
 
 When a Hearing Occurs, the Admins sit in Council to rereview all evidence inculpatory to the revoked Member in the Presence of the Member. The Member shall have the opportunity to present exculpatory evidence, and to present arguments as to both fact and policy.
 
@@ -69,9 +69,10 @@ Proceedings may be disposed of for reason that they have been unduly delayed to 
 
 The Member shall be presumed innocent of the violation that forms the basis for discipline, and only upon complete review of the evidence may the Admins make a Final Determination to revoke the Membership, having found that the violation occurred and was not justified. At any point during the proceedings, the Admins may make a Final Determination to reinstate the Member fully and must do so if, at the conclusion of the Hearing, they cannot find the violation to have occured or to be unjustified. A Final Determination in either case is dispositive: the entire process is complete (In particular, neither party is entitled to an appeal).
 
-If discipline is reserved by final determnation, the Member cannot be disciplined again for the same violation, even with additional inculaptory evidence presented after the fact. If the Member has the discipline confirmed by final decision, the Member is entitled to no further process to reverse the discipline.
+If discipline is reserved by final determnation, the Member cannot be disciplined again for the same violation, even with additional inculaptory evidence presented after the fact. 
+If the Member has the discipline confirmed by final decision, the Member is entitled to no further process to reverse the discipline, however a rehearing may be granted at the sole discretion of the Admins in extraordinary circumstances, such as failure to consider applicable facts or policy. A decision to reverse the discipline may not be reheared under any circumstances.
 
-Members subject to a Formal Admonishment only have no right to a hearing, but a hearing may nonetheless be granted at the discretion of the Admins.
+Members subject to discpline that does not affect the member's status have no right to a hearing, but a hearing may nonetheless be granted at the discretion of the Admins.
 
 ### Documentation of Reasons of Revocation
 
